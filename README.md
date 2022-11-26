@@ -3,7 +3,7 @@
 #Я Татьяна Калямина, начинающий Python-разработчик.
 
 ###Вот что я умею:
-#[Репозиторий с дипломной работой](https://github.com/kalyaminat/Project1.git)
+[Репозиторий с дипломной работой](https://github.com/kalyaminat/Project1.git)
 
 
 <!--
