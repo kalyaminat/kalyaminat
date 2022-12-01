@@ -6,9 +6,9 @@
 [Репозиторий с дипломной работой](https://github.com/kalyaminat/Project1.git)
 
 #### Сертификаты Нетологии
-[Основы программирования на Python](https://docs.google.com/document/d/1iXME5-KhNXbZCUMKdmG9fq8ZsJIjLn2cE6uU0hWfi3Q/edit)
+[Основы программирования на Python](https://drive.google.com/file/d/1E_uy9ytQIr4zr9pSxn1AjAV39Mm937bh/view?usp=share_link)
 
-[Python-разработчик](https://docs.google.com/document/d/1iXME5-KhNXbZCUMKdmG9fq8ZsJIjLn2cE6uU0hWfi3Q/edit)
+[Python-разработчик](https://drive.google.com/file/d/1Xjgfow2b3StfhCveDwhkBIaGSlhh29N3/view?usp=share_link)
 
 
 
