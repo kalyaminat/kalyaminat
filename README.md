@@ -5,6 +5,11 @@
 ### Вот что я умею:
 [Репозиторий с дипломной работой](https://github.com/kalyaminat/Project1.git)
 
+#### Сертификаты Нетологии
+[Основы программирования на Python](https://docs.google.com/document/d/1iXME5-KhNXbZCUMKdmG9fq8ZsJIjLn2cE6uU0hWfi3Q/edit)
+
+[Python-разработчик](https://docs.google.com/document/d/1iXME5-KhNXbZCUMKdmG9fq8ZsJIjLn2cE6uU0hWfi3Q/edit)
+
 
 
 <!--
