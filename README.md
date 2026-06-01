@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/LOAD_TESTING-FF6B6B?style=for-the-badge&logo=locust&logoColor=white"/>
 </p>
 
-### Языки программирования
+### ⚙️ Языки программирования
 <p align="center">
   <!-- Языки программирования -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
