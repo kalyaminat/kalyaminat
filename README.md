@@ -4,7 +4,7 @@
 
 
 
-### 🧪 Виды тестирования
+### 🔎  Виды тестирования
 
 <p align="center">
   <img src="https://img.shields.io/badge/MANUAL_TESTING-6B46C1?style=for-the-badge&logo=testing-library&logoColor=white"/>
@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/Page_Object_Model-2C3E50?style=for-the-badge&logo=databricks&logoColor=white"/>
 </p>
 
-### 📚 Что я использую в работе
+### 📊 Что я использую в работе
 
 *   **Тестирование ПО:** виды тестирования, техники тест-дизайна, артефакты.
 *   **Веб-тестирование:** клиент-серверная архитектура, HTTP, HTML/CSS, DevTools.
